@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Shishodia</h1>
 <h3 align="center">A passionate learner(frontend) from India</h3>
+<img align = "right" alt = "coder" width = "300" src = "https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478g6fgohj5w52z0u9r6af0llf9m7a0egwgkoxhht7&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-shishodia&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-shishodia" /> </p>
 
@@ -30,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika-shishodia&show_icons=true&locale=en" alt="ritika-shishodia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika-shishodia&" alt="ritika-shishodia" /></p>
-
