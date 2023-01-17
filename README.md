@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritika Shishodia</h1>
 <h3 align="center">A passionate learner(frontend) from India</h3>
 <img align = "right" alt = "coder" width = "300" src = "https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478g6fgohj5w52z0u9r6af0llf9m7a0egwgkoxhht7&rid=giphy.gif&ct=g"/>
-- 🌱 I’m currently learning **ES6,Tailwind CSS**
+- 🌱 I’m currently learning **ES6, Tailwind CSS**
 
-- 💬 Ask me about **Html5,Css3,ES6,API's**
+- 💬 Ask me about **HTML5, CSS3, Javascript(ES6), API's**
 
 - 📫 How to reach me **ritikashishodia1245@gmail.com**
 
