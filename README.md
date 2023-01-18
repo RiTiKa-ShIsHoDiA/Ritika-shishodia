@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritika Shishodia</h1>
 <h3 align="center">A passionate learner(frontend development) from India</h3>
-<img align = "right" alt = "coder" width = "200" src = "https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478g6fgohj5w52z0u9r6af0llf9m7a0egwgkoxhht7&rid=giphy.gif&ct=g"/>
+<img align = "right" alt = "coder" width = "300" src = "https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478g6fgohj5w52z0u9r6af0llf9m7a0egwgkoxhht7&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-shishodia&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-shishodia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritika-shishodia" alt="ritika-shishodia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritika-shishodia" alt="ritika-shishodia" width="500" /></a> </p>
 
 - 🌱 I’m currently learning **ES6, Tailwind CSS**
 
@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ritika-shishodia&show_icons=true&locale=en&layout=compact" alt="ritika-shishodia" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritika-shishodia&show_icons=true&locale=en&theme=radical" alt="ritika-shishodia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritika-shishodia&show_icons=true&locale=en&theme=radical" alt="ritika-shishodia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika-shishodia&theme=dark" alt="ritika-shishodia" /></p>
 
