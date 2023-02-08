@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritika-shishodia" alt="ritika-shishodia" width="500" /></a> </p>
 
-- 🌱 I’m currently learning **ES6, Tailwind CSS**
+- 🌱 I’m currently learning **ES6**, library of js (**REACT**), **Tailwind CSS**
 
 - 💬 Ask me about **HTML5, CSS3, ES6, API's**
 
