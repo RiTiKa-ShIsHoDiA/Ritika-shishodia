@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ritikashishodia1245@gmail.com**
 
-- 📄 Know about my experiences([https://drive.google.com/drive/folders/1SNXP7iRMARG2DdFbAFwiC0XTLNOVrNlU?usp=sharing](https://drive.google.com/drive/folders/1SNXP7iRMARG2DdFbAFwiC0XTLNOVrNlU?usp=sharing))
+- 📄 Know about my experiences([https://drive.google.com/file/d/17264GlLdzYr257qvQgc5lh0qfKbRMrjy/view?usp=sharing](https://drive.google.com/file/d/17264GlLdzYr257qvQgc5lh0qfKbRMrjy/view?usp=sharing))
 
 - ⚡ Fun fact **I am open-to-learn 😀**
 
